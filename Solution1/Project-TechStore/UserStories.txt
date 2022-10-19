@@ -1,0 +1,9 @@
+As a tech manager, I want to make sure we have enough supply of CPUs so that that store does not run out
+
+As a tech owner, I want to look at the population of customers coming in the store
+
+As a tech co-owner, I want to look at purchases and make sure we are making profit so that we can keep selling
+
+As a tech support, I want to look at purchases to help people with online support
+
+As a tech repair, I want to make sure we have enough supply of graphics cards if we have to fix computers

@@ -1,0 +1,5 @@
+Supply(ID, GraphicsCard, CPU, MotherBoard, RAM)
+
+Population(ID, Population)
+
+Purchases(ID, Item_ID, Tax, Profit)
